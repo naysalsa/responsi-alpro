@@ -1,0 +1,19 @@
+=== DAFTAR TUGAS ===
+
+Tugas ke-1
+Nama Tugas : arsikom
+Mata Kuliah: arsikom
+Deadline   : 14 mwi 2026
+Status     : Dihapus
+
+Tugas ke-2
+Nama Tugas : esai
+Mata Kuliah: bahasa indonesia
+Deadline   : 30 juni 2026
+Status     : Aktif
+
+Tugas ke-3
+Nama Tugas : program sederhana
+Mata Kuliah: alpro
+Deadline   : 23 mei 2026
+Status     : Selesai
